@@ -6,49 +6,44 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.108.0">
-    <title>Album example · Bootstrap v5.3</title>
+    <title>Iowa State Buildings</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
-
-    <style>
-      .nav-link {
-        color: white;
-      }
-
-      .headerContainer {
-        background-color:rgba(0, 0, 0, .75);
-      }
-
-      .profileCard {
-        background-color: black;
-      }
-    </style>
   </head>
   <body>
+    <link href="./styles/credits.css" rel="stylesheet">
     <header class="headerContainer">
         <div class="container">
             <header class="d-flex justify-content-center py-3">
                 <ul class="nav nav-pills">
-                    <li class="nav-link"><a href="./index.html" class="nav-link">Home</a></li>
-                    <li class="nav-link"><a href="./album.html" class="nav-link">Album</a></li>
-                    <li class="nav-link active"><a href="./credits.html" class="nav-link">Credits</a></li>
+                    <li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="./album.html" class="nav-link">Album</a></li>
+                    <li class="nav-item"><a href="./credits.html" class="nav-link active">Credits</a></li>
                 </ul>
             </header>
           </div>
     </header>
 
     <main>
-        <div class="container px-4 py-5" id="custom-cards">
-            <h2 class="pb-2 border-bottom">Contributors</h2>
+        <div class="container px-4 mt-3 pb-5" id="custom-cards">
+
+            <div class="col d-flex flex-column py-3 align-items-start gap-2">
+              <h1 class="fw-bold">SE/ComS 319: Construction of User Interfaces, Spring 2023</h3>
+              <h2>Class Description</h2>
+              <p class="text-muted">Overview of user interface design. Evaluation and testing of user interfaces. Review of principles of object orientation, object-oriented design and analysis using UML in the context of user interface design. Design of windows, menus and commands. Developing Web and Windows-based user-interfaces. Event-driven programming. Introduction to Frameworks and APIs for the construction of user interfaces.</p>
+            </div>
+
+            <h2 class="py-3">Contributors</h2>
         
-            <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 py-5">
+            <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 pb-5">
+
               <div class="col">
-                <div class="profileCard card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg">
+                <div class="profileCardcard card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg">
                   <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                    <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Ethan Hancock</h3>
+                    <h3 class="mb-4 display-6 lh-1 fw-bold">Ethan Hancock</h3>
                     <ul class="d-flex list-unstyled mt-auto">
                       <li class="d-flex align-items-center me-3">
                         ehancock@iastate.edu
@@ -61,7 +56,7 @@
               <div class="col">
                 <div class="profileCard card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg"">
                   <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                    <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Christian Deam</h3>
+                    <h3 class="mb-4 display-6 lh-1 fw-bold">Christian Deam</h3>
                     <ul class="d-flex list-unstyled mt-auto">
                       <li class="d-flex align-items-center me-3">
                         cmdeam@iastate.edu
@@ -70,6 +65,7 @@
                   </div>
                 </div>
               </div>
+
             </div>
           </div>
     </main>
@@ -80,6 +76,7 @@
             <a href="#">Back to top</a>
           </p>
           <p class="mb-1">Designed and Curated by Ethan Hancock & Christian Deam</p>
+          <p class="mb-1">Last Updated: 3/9/2023</p>
         </div>
       </footer>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
