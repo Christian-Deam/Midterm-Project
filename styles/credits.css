@@ -2,12 +2,6 @@
   color: white;
 }
 
-.mainContent {
-  -webkit-box-shadow: 0px 0px 37px 5px rgba(0,0,0,0.82);
-  -moz-box-shadow: 0px 0px 37px 5px rgba(0,0,0,0.82);
-  box-shadow: 0px 0px 37px 5px rgba(0,0,0,0.82);
-}
-
 .headerContainer {
   background-color:rgba(0, 0, 0, .75);
 }
