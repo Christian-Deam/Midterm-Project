@@ -12,6 +12,38 @@
     }
   }
 
+  .albumHeader {
+    position: relative;
+  }
+
+  .albumHead {
+    top: 0;
+    left: 0;
+    height: 35vh;
+    width: 100vw;
+    object-fit: cover;
+    background-image: url("../images/albumHeader.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    z-index: 1;
+  }
+
+  .headerText {
+    -webkit-box-shadow: 0px 0px 34px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 34px 1px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 34px 1px rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+    padding-left: 8vw;
+    position: absolute;
+    margin-top: 10vh;
+    width: 100vw;
+    background-color: #ffffff;
+    z-index: 9;
+  }
+
   .b-example-divider {
     height: 3rem;
     background-color: rgba(0, 0, 0, .1);
