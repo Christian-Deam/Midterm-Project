@@ -1,0 +1,67 @@
+{
+    "Parks Library": {
+      "yearBuilt": 1925,
+      "description": "The ISU Public Library is a place for students to go to quietly work and study while on campus.",
+      "site": "https://www.lib.iastate.edu/"
+    },
+    "Memorial Union": {
+      "yearBuilt": 1928,
+      "description": "The Memorial Union is a public place with multitudes of student services and activities.",
+      "site": "https://www.mu.iastate.edu/"
+    },
+    "Student Innovation Center": {
+      "yearBuilt": 2020,
+      "description": "The Student Innovation Center is a place where students imaginate, create, and of course innovate.",
+      "site": "https://sictr.iastate.edu/"
+    },
+    "Beardshear Hall": {
+      "yearBuilt": 1906,
+      "description": "Beardshear Hall is the place that new students should become familiar with as that's where most of their in-person registration is.",
+      "site": "https://www.fpm.iastate.edu/maps/buildings/building.asp?id=13"
+    },
+    "Maple, Willow, Larch Residence Halls": {
+      "yearBuilt": "1967-1971",
+      "description": "Maple, Willow, and Larch are all residence halls perfect for incoming students.",
+      "site": "https://www.fpm.iastate.edu/maps/buildings/building.asp?id=168"
+    },
+    "State Gym": {
+      "yearBuilt": 1913,
+      "description": "The State Gym is a great centralized place for students to work out and exercise.",
+      "site": "https://www.recservices.iastate.edu/facility/state/"
+    },
+    "Lied Recreation Center": {
+      "yearBuilt": 1990,
+      "description": "The Lied Rec Center is another gym placed to the north of Maple, Willow, and Larch, a good starting gym for those new students.",
+      "site": "https://www.recservices.iastate.edu/facility/lied/"
+    },
+    "Campanile": {
+      "yearBuilt": 1898,
+      "description": "In the center of campus lies the Campanile. Being one of the major symbols of Iowa State as well as the univervsity's alma mater.",
+      "site": "https://www.fpm.iastate.edu/maps/buildings/building.asp?id=19"
+    },
+    "Curtiss Hall": {
+      "yearBuilt": 1909,
+      "description": "Curtiss Hall, first called Agriculture Hall, is the hub of Agricultural knowledge and exams.",
+      "site": "https://www.fpm.iastate.edu/maps/buildings/building.asp?id=27"
+    },
+    "Simon Estes Music Hall": {
+      "yearBuilt": 1980,
+      "description": "Simon Estes Music Hall is the place where music majors gather to learn. Additionally, concerts and final performances of the students are played here.",
+      "site": "https://www.music.iastate.edu/events"
+    },
+    "Jack Trice Stadium": {
+      "yearBuilt": 1973,
+      "description": "Jack Trice Stadium is the place to go for football games. Eager fans pack the seats and pridefully cheer for their side.",
+      "site": "https://www.ticketsales.com/jack-trice-stadium-tickets/venue?msclkid=baefa7a07a8d14ff0902c3aafee9ea01&utm_source=bing&utm_medium=cpc&utm_campaign=TS%20Venues%201&utm_term=Jack%20Trice%20Stadium&utm_content=(v806)%20-%20Jack%20Trice%20Stadium%20-%20Ames%20-%20IA"
+    },
+    "Hilton Coliseum": {
+      "yearBuilt": 1971,
+      "description": "Hilton Coleseum is the place to go to see the upcoming basketball or volleyball game.",
+      "site": "https://cyclones.com/facilities/hilton-coliseum-basketball-gymnastics-volleyball-wrestling-/9"
+    },
+    "Stephens Auditorium": {
+      "yearBuilt": 1969,
+      "description": "The most matching place for a musical menagerie to monger and mingle or man and mouse to meet and mask onstage might materialize at Stephens Auditorium.",
+      "site": "https://www.center.iastate.edu/stephens-auditorium/"
+    }
+  }
