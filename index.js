@@ -14,7 +14,7 @@ fetch('./data.json')
                     <h5>Description:</h5>
                     <p class="card-text">${json[property].description}</p>
                     <div class="d-flex justify-content-between align-items-center">
-                    <a class="button" href="${json[property].site}">Official Website</a>
+                    <a class="button" href="${json[property].site}">More Details</a>
                     <small class="text-muted">Built in ${json[property].yearBuilt}</small>
                     </div>
                 </div>
